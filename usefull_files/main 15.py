@@ -652,3 +652,5 @@
 a = 5.5
 b = int(a)
 print(b)
+
+list = [1, 2,3]
